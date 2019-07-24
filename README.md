@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-Blablalalblallalblla. More changes from myfeature branch too.
+More changes from myfeature branch too.
 
 ## Purpose
 
@@ -17,4 +17,4 @@ Please form this repository
 
 ## Copyright
 
-2019 Copyright
+2019 Copyright. All rights
